@@ -1,6 +1,10 @@
 # Bing-Ball-
-My freind challenged me to remake this game on https://scratch.mit.edu/projects/402678758/
+My friend challenged me to remake this game on https://scratch.mit.edu/projects/402678758/
 
-You need to have pygame installed
+This is my second version
 
-I built this with python 3.4
+v1 I didn't know how to use classes.
+
+Pygame is needed to run
+
+I made this with Python 3.11.4
